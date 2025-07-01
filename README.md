@@ -1,2 +1,2 @@
 # TravelRouteCollection
-履行线路收藏：自驾、徒步
+旅行线路收藏：自驾、徒步
